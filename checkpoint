@@ -1,0 +1,6 @@
+model_checkpoint_path: "VDSR.model-70"
+all_model_checkpoint_paths: "VDSR.model-30"
+all_model_checkpoint_paths: "VDSR.model-40"
+all_model_checkpoint_paths: "VDSR.model-50"
+all_model_checkpoint_paths: "VDSR.model-60"
+all_model_checkpoint_paths: "VDSR.model-70"
